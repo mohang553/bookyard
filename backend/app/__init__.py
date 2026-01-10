@@ -1,0 +1,1 @@
+"""Bookyard FastAPI application package."""
